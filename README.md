@@ -140,4 +140,4 @@ E-books collected according to Milo Yip's learning path （ [Link](https://githu
 
 - [x] [Multiplayer Game Programming](https://github.com/kurong00/GameProgram/blob/master/11.Multiplayer%20Game%20Programming/Multiplayer%20Game%20Programming.pdf)
 
-![image](https://miloyip.github.io/game-programmer/game-programmer.png)
+![image](game-programmer.png)
