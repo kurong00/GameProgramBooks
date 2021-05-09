@@ -1,6 +1,7 @@
 # GameProgram E-Book
 
-E-books collected according to Milo Yip's learning path （ [Link](https://github.com/miloyip/game-programmer) ）
+[E-books collected according to Milo Yip's learning path](https://github.com/miloyip/game-programmer)
+[（<u>English</u>](game-programmer.png)[、<u>简体中文</u>）](game-programmer-zh-cn.png)
 
 ## 01.Computer Science
 
@@ -139,5 +140,3 @@ E-books collected according to Milo Yip's learning path （ [Link](https://githu
 ## 11.Multiplayer Game Programming
 
 - [x] [Multiplayer Game Programming](https://github.com/kurong00/GameProgram/blob/master/11.Multiplayer%20Game%20Programming/Multiplayer%20Game%20Programming.pdf)
-
-![image](game-programmer.png)
