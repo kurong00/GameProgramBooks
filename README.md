@@ -142,3 +142,25 @@
 ## 11.Multiplayer Game Programming
 
 - [x] [Multiplayer Game Programming](https://github.com/kurong00/GameProgramBooks/blob/master//11.Multiplayer%20Game%20Programming/Multiplayer%20Game%20Programming.pdf)
+
+---
+
+## LICENSE
+
+All content is for **educational purposes only**. We respect intellectual property rights and encourage users to support official publications.
+
+### 1. Copyright Notice
+- Some resources in this repository may be protected by copyright. The copyright of these resources belongs to the original authors and publishers.
+- This repository does **not own** the copyright to these resources, nor has it obtained authorization from the copyright holders to distribute them.
+- If you are a copyright owner and believe that content in this repository infringes your rights, please contact us via [Issues](https://github.com/kurong00/GameProgramBooks/issues) or [Email](mailto:kurong00@gmail.com), and we will remove the relevant content immediately.
+
+### 2. Disclaimer
+- The resources in this repository are for personal learning and research purposes only. **Commercial use is strictly prohibited**.
+- Users of this repository are responsible for any legal issues arising from the use of these resources. The maintainers of this repository are not liable for any legal consequences.
+
+### 3. Contact Us
+If you have any questions or suggestions regarding this repository, please contact us via [Issues](https://github.com/kurong00/GameProgramBooks/issues) or [Email](mailto:kurong00@gmail.com).
+
+---
+
+**Thank you for your understanding and support!**
