@@ -44,7 +44,7 @@
 ### Lua
 
 - [x] [Programming in Lua 4th Edition](https://github.com/kurong00/GameProgramBooks/blob/master//02.Programming%20Language/Lua/Programming%20in%20Lua%204th%20Edition.pdf)
-- [ ] Lua Programming Gems
+- [x] [Lua Programming Gems](https://github.com/kurong00/GameProgramBooks/blob/master/02.Programming%20Language/Lua/Lua%20Programming%20Gems.pdf)
 
 ## 03.Software Development
 
@@ -103,7 +103,7 @@
 
 ### Optimization
 
-- [ ] Video Game Optimization
+- [x] [Video Game Optimization](https://github.com/kurong00/GameProgramBooks/blob/master/06.Game%20Engine%20Development/Optimization/Video%20Game%20Optimization.pdf)
 - [x] [Unity 5 Game Optimization](https://github.com/kurong00/GameProgramBooks/blob/master//06.Game%20Engine%20Development/Optimization/Unity%205%20Game%20Optimization.pdf)
 
 ## 07.Computer Graphics
@@ -111,7 +111,7 @@
 ### Beginning CG Programming
 
 - [x] [OpenGL Programming Guide 9th Edition](https://github.com/kurong00/GameProgramBooks/blob/master//07.Computer%20Graphics/Beginning%20CG%20Programming/OpenGL%20Programming%20Guide%209th%20Edition.pdf)
-- [ ] Real-Time 3D Rendering with DirectX and HLSL pdf
+- [x] [Real-Time 3D Rendering with DirectX and HLSL](https://github.com/kurong00/GameProgramBooks/blob/master/07.Computer%20Graphics/Begin%20CG%20Theory/Real-Time%203D%20Rendering%20with%20DirectX%20and%20HLSL.epub)
 
 ### Beginning CG Theory
 
