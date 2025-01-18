@@ -143,24 +143,20 @@
 
 - [x] [Multiplayer Game Programming](https://github.com/kurong00/GameProgramBooks/blob/master//11.Multiplayer%20Game%20Programming/Multiplayer%20Game%20Programming.pdf)
 
----
 
-## LICENSE
 
-All content is for **educational purposes only**. We respect intellectual property rights and encourage users to support official publications.
+## License
 
-### 1. Copyright Notice
-- Some resources in this repository may be protected by copyright. The copyright of these resources belongs to the original authors and publishers.
-- This repository does **not own** the copyright to these resources, nor has it obtained authorization from the copyright holders to distribute them.
-- If you are a copyright owner and believe that content in this repository infringes your rights, please contact us via [Issues](https://github.com/kurong00/GameProgramBooks/issues) or [Email](mailto:kurong00@gmail.com), and we will remove the relevant content immediately.
+All content is for **educational and non-commercial purposes only**. Support official publications.
+
+### 1. Copyright
+- Some resources may be copyrighted. Contact us via [Issues](https://github.com/kurong00/GameProgramBooks/issues) or [Email](mailto:kurong00@gmail.com) to report infringement. We will remove content promptly.
+- Complies with [DMCA](https://github.com/contact/dmca).
 
 ### 2. Disclaimer
-- The resources in this repository are for personal learning and research purposes only. **Commercial use is strictly prohibited**.
-- Users of this repository are responsible for any legal issues arising from the use of these resources. The maintainers of this repository are not liable for any legal consequences.
+- For personal learning and research only. **No commercial use**.
+- Users are responsible for legal issues. Maintainers are not liable.
 
 ### 3. Contact Us
-If you have any questions or suggestions regarding this repository, please contact us via [Issues](https://github.com/kurong00/GameProgramBooks/issues) or [Email](mailto:kurong00@gmail.com).
+Questions? Contact us via [Issues](https://github.com/kurong00/GameProgramBooks/issues) or [Email](mailto:kurong00@gmail.com).**Thank you for your support!**
 
----
-
-**Thank you for your understanding and support!**
