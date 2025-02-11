@@ -1,7 +1,7 @@
 # GameProgram E-Book
 
-[E-books collected according to Milo Yip's learning path](https://github.com/miloyip/game-programmer)
-[（<u>English</u>](game-programmer.png)[、<u>简体中文</u>）](game-programmer-zh-cn.png)
+E-books collected according to [Milo Yip's](https://github.com/miloyip/game-programmer) learning path
+[(<u>English</u>](game-programmer.png)[ | <u>简体中文</u>)](game-programmer-zh-cn.png)
 
 **Knowledge is meant to flow and be shared, as is the truth.**
 
@@ -128,6 +128,12 @@
 - [x] [Physically Based Rendering](https://github.com/kurong00/GameProgramBooks/blob/master//07.Computer%20Graphics/Advanced%20CG/Offline%20Rendering/Physically%20Based%20Rendering.pdf)
 - [x] [Physically Based Rendering wiki](http://www.pbr-book.org/3ed-2018/contents.html)
 
+## 09. Game Physics and Animation
+
+### Beginning Game Physics Programming
+
+- [x] [Physics for Game Developers 2nd Ed (2013)](https://github.com/kurong00/GameProgramBooks/blob/master/09.%20Game%20Physics%20and%20Animation/Beginning%20Game%20Physics%20Programming/Physics%20for%20Game%20Developers%202nd%20Ed%20(2013).pdf)
+
 ## 10.Game Artificial Intelligence
 
 ### Beginning Game AI
@@ -144,19 +150,8 @@
 - [x] [Multiplayer Game Programming](https://github.com/kurong00/GameProgramBooks/blob/master//11.Multiplayer%20Game%20Programming/Multiplayer%20Game%20Programming.pdf)
 
 
-
 ## License
 
-All content is for **educational and non-commercial purposes only**. Support official publications.
-
-### 1. Copyright
-- Some resources may be copyrighted. Contact us via [Issues](https://github.com/kurong00/GameProgramBooks/issues) or [Email](mailto:kurong00@gmail.com) to report infringement. We will remove content promptly.
-- Complies with [DMCA](https://github.com/contact/dmca).
-
-### 2. Disclaimer
-- For personal learning and research only. **No commercial use**.
-- Users are responsible for legal issues. Maintainers are not liable.
-
-### 3. Contact Us
-Questions? Contact us via [Issues](https://github.com/kurong00/GameProgramBooks/issues) or [Email](mailto:kurong00@gmail.com).**Thank you for your support!**
+All content is for **educational and non-commercial purposes only**. Support official publications. 
+DMCA Compliance: [Issues](https://github.com/kurong00/GameProgramBooks/issues) | [Email](mailto:kurong00@gmail.com) 
 
